@@ -1,0 +1,48 @@
+[2026-05-26 17:19:44] [System] Agent started.
+[2026-05-26 17:19:44] [Agent] Detecting current location...
+[2026-05-26 17:19:44] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 17:19:48] [User Input] pizza
+[2026-05-26 17:19:48] [Planner] Understanding user goal...
+[2026-05-26 17:19:49] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 17:19:49] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 17:19:49] [Tool] Searching nearby places...
+[2026-05-26 17:19:51] [Tool] Retrieved 10 candidate places.
+[2026-05-26 17:19:51] [Recommender] Evaluating places...
+[2026-05-26 17:19:51] [Recommender] Generated 3 recommendations.
+[2026-05-26 17:19:51] [Final] Displaying recommendations.
+[2026-05-26 17:19:51] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 17:19:51] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 17:19:51] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 17:19:51] [System] Recommendation cycle completed.
+[2026-05-26 23:37:28] [System] Agent started.
+[2026-05-26 23:37:28] [Agent] Detecting current location...
+[2026-05-26 23:37:29] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 23:37:33] [User Input] pizza
+[2026-05-26 23:37:33] [Planner] Understanding user goal...
+[2026-05-26 23:37:34] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 23:37:34] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 23:37:34] [Tool] Searching nearby places...
+[2026-05-26 23:37:35] [Tool] Retrieved 10 candidate places.
+[2026-05-26 23:37:35] [Recommender] Evaluating places...
+[2026-05-26 23:37:35] [Recommender] Generated 3 recommendations.
+[2026-05-26 23:37:35] [Final] Displaying recommendations.
+[2026-05-26 23:37:35] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 23:37:35] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 23:37:35] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 23:37:35] [System] Recommendation cycle completed.
+[2026-05-26 23:39:06] [System] Agent started.
+[2026-05-26 23:39:06] [Agent] Detecting current location...
+[2026-05-26 23:39:06] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 23:39:08] [User Input] pizza
+[2026-05-26 23:39:08] [Planner] Understanding user goal...
+[2026-05-26 23:39:09] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 23:39:09] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 23:39:09] [Tool] Searching nearby places...
+[2026-05-26 23:39:10] [Tool] Retrieved 10 candidate places.
+[2026-05-26 23:39:10] [Recommender] Evaluating places...
+[2026-05-26 23:39:13] [Recommender] Generated 3 recommendations.
+[2026-05-26 23:39:13] [Final] Displaying recommendations.
+[2026-05-26 23:39:13] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 23:39:13] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 23:39:13] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 23:39:13] [System] Recommendation cycle completed.
