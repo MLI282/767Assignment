@@ -1,24 +1,24 @@
-# Intelligent Location Recommendation Agent
+# 🍜 Intelligent Location Recommendation Agent
 
 An intelligent software agent that provides personalized nearby restaurant recommendations using LLM reasoning, Google Maps APIs, memory, reflection, and interactive visualization.
 
 ---
 
-# Features
+# ✨ Features
 
-- LLM-based planning and reasoning
-- Personalized recommendations with memory
-- Google Places API integration
-- Google Routes API integration
-- Interactive map visualization with Folium
-- Reflection / self-correction agent
-- Browser GPS location detection
-- Streamlit-based UI
-- Logging system for interaction tracing
+- 🧠 LLM-based planning and reasoning
+- 💾 Personalized recommendations with memory
+- 📍 Google Places API integration
+- 🚗 Google Routes API integration
+- 🗺 Interactive map visualization with Folium
+- 🪞 Reflection / self-correction agent
+- 🌍 Browser GPS location detection
+- 💻 Streamlit-based UI
+- 📜 Logging system for interaction tracing
 
 ---
 
-# System Workflow
+# 🔄 System Workflow
 
 1. The user enters a restaurant-related request.
 2. The **Planner Agent** extracts structured preferences using LLM reasoning.
@@ -26,12 +26,12 @@ An intelligent software agent that provides personalized nearby restaurant recom
 4. The **Location Getter** retrieves the current GPS location.
 5. The **Map Tool** searches nearby places using Google APIs.
 6. The **Recommender Agent** ranks candidate places.
-7. The **Reflection Agent** evaluates recommendation quality.
+7. The **Reflection Agent** evaluates recommendation quality and identifies possible improvements.
 8. Results are displayed through the Streamlit UI with interactive maps.
 
 ---
 
-# Technologies Used
+# 🛠 Technologies Used
 
 - Python
 - Streamlit
@@ -43,7 +43,7 @@ An intelligent software agent that provides personalized nearby restaurant recom
 
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```text
 project/
@@ -56,19 +56,22 @@ project/
 ├── memory.py
 ├── logger.py
 └── requirements.txt
-
-# Installation
-
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/MLI282/767Assignment.git
-cd resturant_Afent
 ```
 
 ---
 
-## 2. Create Virtual Environment (Optional)
+# ⚙ Installation
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/MLI282/767Assignment.git
+cd resturant_Agent
+```
+
+---
+
+## 2️⃣ Create Virtual Environment (Optional)
 
 ```bash
 python -m venv venv
@@ -79,7 +82,7 @@ Activate virtual environment:
 ### Windows
 
 ```bash
-venv\\Scripts\\activate
+venv\Scripts\activate
 ```
 
 ### Mac/Linux
@@ -90,7 +93,7 @@ source venv/bin/activate
 
 ---
 
-## 3. Install Required Libraries
+## 3️⃣ Install Required Libraries
 
 ```bash
 pip install streamlit
@@ -109,19 +112,24 @@ pip install -r requirements.txt
 
 ---
 
-## 4. Configure API Keys
+## 4️⃣ Configure API Keys
 
-
-The key we 
 ```python
-api_key = "your_deepseek_api_key" in planner.py
+api_key = "your_deepseek_api_key"   # planner.py
 
-GOOGLE_MAPS_API_KEY = "your_google_maps_api_key" in map_tools.py
+GOOGLE_MAPS_API_KEY = "your_google_maps_api_key"   # maps_tool.py
 ```
 
+⚠ Notice:
+
+I currently use my own DeepSeek API key for demonstration purposes.  
+The key will remain available until the end of June.
+
+For large-scale testing or long-term usage, please use your own API key.
+
 ---
-Notice: I use my deepseek api key which cost money and it will keep utill the end of June,If you want Mass testing ,Please use your own key
-## 5. Run the Application
+
+## 5️⃣ Run the Application
 
 ```bash
 streamlit run app.py
@@ -129,7 +137,7 @@ streamlit run app.py
 
 ---
 
-# Usage
+# 🚀 Usage
 
 1. Allow browser location access.
 2. Enter a restaurant-related request such as:
@@ -139,9 +147,55 @@ cheap korean bbq nearby
 ```
 
 3. The system will:
-- extract user preferences
-- search nearby restaurants
-- calculate travel distance
-- rank recommendations
-- evaluate recommendation quality
-- display recommendations on an interactive map
+
+- 🧠 Extract user preferences
+- 📍 Search nearby restaurants
+- 🚗 Calculate travel distance and duration
+- ⭐ Rank recommendation results
+- 🪞 Perform reflection and self-correction on recommendations
+- 🗺 Display recommendations on an interactive map
+
+---
+
+# 🎯 Example Capabilities
+
+- Nearby restaurant recommendation
+- Personalized preference adaptation
+- Reflection-based recommendation evaluation
+- Interactive route-aware recommendations
+
+---
+
+# 📹 Demo Video
+
+[Paste Demo Video Link Here]
+
+---
+
+# 🔗 GitHub Repository
+
+https://github.com/MLI282/767Assignment
+
+---
+
+# 📚 Course Concepts Applied
+
+This project applies several intelligent agent concepts covered in CS767, including:
+
+- Planning and reasoning
+- Tool-augmented agents
+- Memory systems
+- Reflection and self-correction
+- Multi-module agent architecture
+- Environment interaction through APIs
+- Interactive visualization
+
+---
+
+# 🔮 Future Improvements
+
+- Multi-agent collaboration
+- Weather-aware recommendations
+- User feedback learning
+- Voice interaction
+- Advanced recommendation scoring
