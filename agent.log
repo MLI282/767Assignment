@@ -46,3 +46,19 @@
 [2026-05-26 23:39:13] [Recommendation 2] A Modo Mio | Score=18.59
 [2026-05-26 23:39:13] [Recommendation 3] Bossi | Score=18.4
 [2026-05-26 23:39:13] [System] Recommendation cycle completed.
+[2026-05-28 12:41:19] [System] Agent started.
+[2026-05-28 12:41:19] [Agent] Detecting current location...
+[2026-05-28 12:41:20] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-28 12:41:25] [User Input] cheap pizza
+[2026-05-28 12:41:25] [Planner] Understanding user goal...
+[2026-05-28 12:41:26] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': 'cheap', 'max_distance_km': None}
+[2026-05-28 12:41:26] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': 'cheap'}
+[2026-05-28 12:41:26] [Tool] Searching nearby places...
+[2026-05-28 12:41:28] [Tool] Retrieved 10 candidate places.
+[2026-05-28 12:41:28] [Recommender] Evaluating places...
+[2026-05-28 12:41:31] [Recommender] Generated 3 recommendations.
+[2026-05-28 12:41:31] [Final] Displaying recommendations.
+[2026-05-28 12:41:31] [Recommendation 1] Toto Pizza | Score=21.02
+[2026-05-28 12:41:31] [Recommendation 2] That's Amore | Score=18.83
+[2026-05-28 12:41:31] [Recommendation 3] BORCELLE CAFE | Score=18.8
+[2026-05-28 12:41:31] [System] Recommendation cycle completed.
