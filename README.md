@@ -66,7 +66,6 @@ project/
 
 ```bash
 git clone https://github.com/MLI282/767Assignment.git
-cd resturant_Agent
 ```
 
 ---
