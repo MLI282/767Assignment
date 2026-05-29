@@ -1,4 +1,4 @@
-# 🍜 Intelligent Location Recommendation Agent
+# 🍜 Intelligent Restaurant Recommendation Agent
 
 An intelligent software agent that provides personalized nearby restaurant recommendations using LLM reasoning, Google Maps APIs, memory, reflection, and interactive visualization.
 
@@ -167,7 +167,7 @@ cheap korean bbq nearby
 
 # 📹 Demo Video
 
-[Paste Demo Video Link Here]
+https://youtu.be/urwghbbuheE
 
 ---
 
