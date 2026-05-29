@@ -11,7 +11,7 @@ from maps_tool import search_places
 from recommender import rank_places
 from reflection import reflect_recommendations
 from memory import update_memory, get_memory
-
+from logger import log_event
 
 # =====================================
 # Page Config
@@ -118,7 +118,9 @@ if st.button("Search"):
         # =====================================
         # Planner Agent
         # =====================================
-
+        log_event(
+    f"[User Input] {user_input}"
+)
         with st.spinner(
             "Planner Agent understanding preferences..."
         ):
@@ -166,7 +168,18 @@ if st.button("Search"):
                     candidate_places,
                     preferences
                 )
+                for idx, place in enumerate(recommendations):
 
+                    log_event(
+
+        f"[Recommendation {idx+1}] "
+
+        f"{place['name']} | "
+
+        f"Rating={place.get('rating')} | "
+
+        f"Distance={place.get('distance_text')}"
+    )
             # =====================================
             # Reflection Agent
             # =====================================

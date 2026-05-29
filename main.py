@@ -51,7 +51,7 @@ def main():
         # Exit
         # =====================================
 
-        if user_input.lower() in ["exit", "quit"]:
+        if user_input.lower() in ["exit", "quit","bye"]:
 
             log_event("[System] User exited program.")
 
