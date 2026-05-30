@@ -405,3 +405,23 @@
 [2026-05-29 20:34:40] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
 [2026-05-29 20:34:40] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
 [2026-05-29 20:34:40] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-30 18:52:50] [System] Agent started.
+[2026-05-30 18:52:50] [Agent] Detecting current location...
+[2026-05-30 18:52:50] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-30 18:52:53] [User Input] bbq
+[2026-05-30 18:52:53] [Planner] Understanding user goal...
+[2026-05-30 18:52:54] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-30 18:52:54] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-30 18:52:54] [Tool] Searching nearby places...
+[2026-05-30 18:52:56] [Tool] Retrieved 10 candidate places.
+[2026-05-30 18:52:56] [Recommender] Evaluating places...
+[2026-05-30 18:52:59] [Recommender] Generated 3 recommendations.
+[2026-05-30 18:52:59] [Final] Displaying recommendations.
+[2026-05-30 18:52:59] [Recommendation 1] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-30 18:52:59] [Recommendation 2] Milenta | Score=18.8
+[2026-05-30 18:52:59] [Recommendation 3] Grill Planet BBQ Buffet 烤肉星球 | Score=18.52
+[2026-05-30 18:52:59] [System] Recommendation cycle completed.
+[2026-05-30 18:53:32] [User Input] pizza
+[2026-05-30 18:53:35] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.5 km
+[2026-05-30 18:53:35] [Recommendation 2] Bossi | Rating=4.6 | Distance=1.6 km
+[2026-05-30 18:53:35] [Recommendation 3] Amano | Rating=4.6 | Distance=1.8 km
