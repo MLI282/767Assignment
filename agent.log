@@ -1,0 +1,407 @@
+[2026-05-26 17:19:44] [System] Agent started.
+[2026-05-26 17:19:44] [Agent] Detecting current location...
+[2026-05-26 17:19:44] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 17:19:48] [User Input] pizza
+[2026-05-26 17:19:48] [Planner] Understanding user goal...
+[2026-05-26 17:19:49] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 17:19:49] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 17:19:49] [Tool] Searching nearby places...
+[2026-05-26 17:19:51] [Tool] Retrieved 10 candidate places.
+[2026-05-26 17:19:51] [Recommender] Evaluating places...
+[2026-05-26 17:19:51] [Recommender] Generated 3 recommendations.
+[2026-05-26 17:19:51] [Final] Displaying recommendations.
+[2026-05-26 17:19:51] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 17:19:51] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 17:19:51] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 17:19:51] [System] Recommendation cycle completed.
+[2026-05-26 23:37:28] [System] Agent started.
+[2026-05-26 23:37:28] [Agent] Detecting current location...
+[2026-05-26 23:37:29] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 23:37:33] [User Input] pizza
+[2026-05-26 23:37:33] [Planner] Understanding user goal...
+[2026-05-26 23:37:34] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 23:37:34] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 23:37:34] [Tool] Searching nearby places...
+[2026-05-26 23:37:35] [Tool] Retrieved 10 candidate places.
+[2026-05-26 23:37:35] [Recommender] Evaluating places...
+[2026-05-26 23:37:35] [Recommender] Generated 3 recommendations.
+[2026-05-26 23:37:35] [Final] Displaying recommendations.
+[2026-05-26 23:37:35] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 23:37:35] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 23:37:35] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 23:37:35] [System] Recommendation cycle completed.
+[2026-05-26 23:39:06] [System] Agent started.
+[2026-05-26 23:39:06] [Agent] Detecting current location...
+[2026-05-26 23:39:06] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-26 23:39:08] [User Input] pizza
+[2026-05-26 23:39:08] [Planner] Understanding user goal...
+[2026-05-26 23:39:09] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-26 23:39:09] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-26 23:39:09] [Tool] Searching nearby places...
+[2026-05-26 23:39:10] [Tool] Retrieved 10 candidate places.
+[2026-05-26 23:39:10] [Recommender] Evaluating places...
+[2026-05-26 23:39:13] [Recommender] Generated 3 recommendations.
+[2026-05-26 23:39:13] [Final] Displaying recommendations.
+[2026-05-26 23:39:13] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-26 23:39:13] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-26 23:39:13] [Recommendation 3] Bossi | Score=18.4
+[2026-05-26 23:39:13] [System] Recommendation cycle completed.
+[2026-05-28 12:41:19] [System] Agent started.
+[2026-05-28 12:41:19] [Agent] Detecting current location...
+[2026-05-28 12:41:20] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-28 12:41:25] [User Input] cheap pizza
+[2026-05-28 12:41:25] [Planner] Understanding user goal...
+[2026-05-28 12:41:26] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': 'cheap', 'max_distance_km': None}
+[2026-05-28 12:41:26] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': 'cheap'}
+[2026-05-28 12:41:26] [Tool] Searching nearby places...
+[2026-05-28 12:41:28] [Tool] Retrieved 10 candidate places.
+[2026-05-28 12:41:28] [Recommender] Evaluating places...
+[2026-05-28 12:41:31] [Recommender] Generated 3 recommendations.
+[2026-05-28 12:41:31] [Final] Displaying recommendations.
+[2026-05-28 12:41:31] [Recommendation 1] Toto Pizza | Score=21.02
+[2026-05-28 12:41:31] [Recommendation 2] That's Amore | Score=18.83
+[2026-05-28 12:41:31] [Recommendation 3] BORCELLE CAFE | Score=18.8
+[2026-05-28 12:41:31] [System] Recommendation cycle completed.
+[2026-05-29 18:55:29] [User Input] pizza
+[2026-05-29 18:55:33] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 18:55:33] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 18:55:33] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 19:35:32] [User Input] pizza
+[2026-05-29 19:35:35] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 19:35:35] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 19:35:35] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 19:53:41] [System] Agent started.
+[2026-05-29 19:53:41] [Agent] Detecting current location...
+[2026-05-29 19:53:41] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 19:54:41] [User Input] pizza
+[2026-05-29 19:54:41] [Planner] Understanding user goal...
+[2026-05-29 19:54:43] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 19:54:43] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 19:54:43] [Tool] Searching nearby places...
+[2026-05-29 19:54:44] [Tool] Retrieved 10 candidate places.
+[2026-05-29 19:54:44] [Recommender] Evaluating places...
+[2026-05-29 19:54:48] [Recommender] Generated 3 recommendations.
+[2026-05-29 19:54:48] [Final] Displaying recommendations.
+[2026-05-29 19:54:48] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 19:54:48] [Recommendation 2] BORCELLE CAFE | Score=18.8
+[2026-05-29 19:54:48] [Recommendation 3] A Modo Mio | Score=18.59
+[2026-05-29 19:54:48] [System] Recommendation cycle completed.
+[2026-05-29 19:55:24] [User Input] pizza
+[2026-05-29 19:55:24] [Planner] Understanding user goal...
+[2026-05-29 19:55:25] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 19:55:25] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 19:55:25] [Tool] Searching nearby places...
+[2026-05-29 19:55:27] [Tool] Retrieved 10 candidate places.
+[2026-05-29 19:55:27] [Recommender] Evaluating places...
+[2026-05-29 19:55:30] [Recommender] Generated 3 recommendations.
+[2026-05-29 19:55:30] [Final] Displaying recommendations.
+[2026-05-29 19:55:30] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 19:55:30] [Recommendation 2] BORCELLE CAFE | Score=18.8
+[2026-05-29 19:55:30] [Recommendation 3] A Modo Mio | Score=18.59
+[2026-05-29 19:55:30] [System] Recommendation cycle completed.
+[2026-05-29 19:56:08] [User Input] pizza
+[2026-05-29 19:56:08] [Planner] Understanding user goal...
+[2026-05-29 19:56:09] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 19:56:09] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 19:56:09] [Tool] Searching nearby places...
+[2026-05-29 19:56:11] [Tool] Retrieved 10 candidate places.
+[2026-05-29 19:56:11] [Recommender] Evaluating places...
+[2026-05-29 19:56:14] [Recommender] Generated 3 recommendations.
+[2026-05-29 19:56:14] [Final] Displaying recommendations.
+[2026-05-29 19:56:14] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 19:56:14] [Recommendation 2] BORCELLE CAFE | Score=18.8
+[2026-05-29 19:56:14] [Recommendation 3] A Modo Mio | Score=18.59
+[2026-05-29 19:56:14] [System] Recommendation cycle completed.
+[2026-05-29 19:57:23] [System] Agent started.
+[2026-05-29 19:57:23] [Agent] Detecting current location...
+[2026-05-29 19:57:24] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 19:57:34] [User Input] pizza
+[2026-05-29 19:57:34] [Planner] Understanding user goal...
+[2026-05-29 19:57:35] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 19:57:35] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 19:57:35] [Tool] Searching nearby places...
+[2026-05-29 19:57:36] [Tool] Retrieved 10 candidate places.
+[2026-05-29 19:57:36] [Recommender] Evaluating places...
+[2026-05-29 19:57:40] [Recommender] Generated 3 recommendations.
+[2026-05-29 19:57:40] [Final] Displaying recommendations.
+[2026-05-29 19:57:40] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 19:57:40] [Recommendation 2] BORCELLE CAFE | Score=18.8
+[2026-05-29 19:57:40] [Recommendation 3] A Modo Mio | Score=18.59
+[2026-05-29 19:57:40] [System] Recommendation cycle completed.
+[2026-05-29 19:58:11] [User Input] pizza
+[2026-05-29 19:58:14] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 19:58:14] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 19:58:14] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 19:59:43] [System] Agent started.
+[2026-05-29 19:59:43] [Agent] Detecting current location...
+[2026-05-29 19:59:44] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 19:59:48] [User Input] pizza
+[2026-05-29 19:59:48] [Planner] Understanding user goal...
+[2026-05-29 19:59:50] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 19:59:50] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 19:59:50] [Tool] Searching nearby places...
+[2026-05-29 19:59:51] [Tool] Retrieved 10 candidate places.
+[2026-05-29 19:59:51] [Recommender] Evaluating places...
+[2026-05-29 19:59:55] [Recommender] Generated 3 recommendations.
+[2026-05-29 19:59:55] [Final] Displaying recommendations.
+[2026-05-29 19:59:55] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 19:59:55] [Recommendation 2] BORCELLE CAFE | Score=18.8
+[2026-05-29 19:59:55] [Recommendation 3] A Modo Mio | Score=18.59
+[2026-05-29 19:59:55] [System] Recommendation cycle completed.
+[2026-05-29 20:00:09] [User Input] Bye
+[2026-05-29 20:00:09] [Planner] Understanding user goal...
+[2026-05-29 20:00:10] [Planner Output] {'type': None, 'cuisine': None, 'keywords': None, 'price': None, 'max_distance_km': None}
+[2026-05-29 20:00:10] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 20:00:10] [Tool] Searching nearby places...
+[2026-05-29 20:00:11] [Tool] No places found.
+[2026-05-29 20:02:25] [System] Agent started.
+[2026-05-29 20:02:25] [Agent] Detecting current location...
+[2026-05-29 20:02:25] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:03:43] [System] Agent started.
+[2026-05-29 20:03:43] [Agent] Detecting current location...
+[2026-05-29 20:03:43] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:03:50] [User Input] pizza
+[2026-05-29 20:03:50] [Planner] Understanding user goal...
+[2026-05-29 20:03:52] [Planner Output] {'type': 'restaurant', 'cuisine': 'italian', 'keywords': 'pizza', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:03:52] [Memory Updated] {'favorite_cuisine': 'italian', 'preferred_price': None}
+[2026-05-29 20:03:52] [Tool] Searching nearby places...
+[2026-05-29 20:03:53] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:03:53] [Recommender] Evaluating places...
+[2026-05-29 20:03:56] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:03:56] [Final] Displaying recommendations.
+[2026-05-29 20:03:56] [Recommendation 1] That's Amore | Score=18.83
+[2026-05-29 20:03:56] [Recommendation 2] A Modo Mio | Score=18.59
+[2026-05-29 20:03:56] [Recommendation 3] Bossi | Score=18.4
+[2026-05-29 20:03:56] [System] Recommendation cycle completed.
+[2026-05-29 20:04:12] [User Input] Bye
+[2026-05-29 20:04:12] [System] User exited program.
+[2026-05-29 20:04:42] [User Input] pizza
+[2026-05-29 20:04:44] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:04:44] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:04:44] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:09:32] [System] Agent started.
+[2026-05-29 20:09:32] [Agent] Detecting current location...
+[2026-05-29 20:09:33] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:09:38] [User Input] bbq
+[2026-05-29 20:09:38] [Planner] Understanding user goal...
+[2026-05-29 20:09:40] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:09:40] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:09:40] [Tool] Searching nearby places...
+[2026-05-29 20:09:41] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:09:41] [Recommender] Evaluating places...
+[2026-05-29 20:09:44] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:09:44] [Final] Displaying recommendations.
+[2026-05-29 20:09:44] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:09:44] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:09:44] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:09:44] [System] Recommendation cycle completed.
+[2026-05-29 20:09:52] [User Input] Bye
+[2026-05-29 20:09:52] [System] User exited program.
+[2026-05-29 20:10:48] [System] Agent started.
+[2026-05-29 20:10:48] [Agent] Detecting current location...
+[2026-05-29 20:10:48] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:10:55] [User Input] bbq
+[2026-05-29 20:10:55] [Planner] Understanding user goal...
+[2026-05-29 20:10:56] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:10:56] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:10:56] [Tool] Searching nearby places...
+[2026-05-29 20:10:57] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:10:57] [Recommender] Evaluating places...
+[2026-05-29 20:11:01] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:11:01] [Final] Displaying recommendations.
+[2026-05-29 20:11:01] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:11:01] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:11:01] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:11:01] [System] Recommendation cycle completed.
+[2026-05-29 20:11:20] [User Input] Bye
+[2026-05-29 20:11:20] [System] User exited program.
+[2026-05-29 20:11:41] [User Input] pizza
+[2026-05-29 20:11:46] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:11:46] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:11:46] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:13:42] [System] Agent started.
+[2026-05-29 20:13:42] [Agent] Detecting current location...
+[2026-05-29 20:13:43] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:13:49] [User Input] BBQ
+[2026-05-29 20:13:49] [Planner] Understanding user goal...
+[2026-05-29 20:13:50] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'BBQ', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:13:50] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:13:50] [Tool] Searching nearby places...
+[2026-05-29 20:13:52] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:13:52] [Recommender] Evaluating places...
+[2026-05-29 20:13:55] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:13:55] [Final] Displaying recommendations.
+[2026-05-29 20:13:55] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:13:55] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:13:55] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:13:55] [System] Recommendation cycle completed.
+[2026-05-29 20:14:12] [User Input] Bye
+[2026-05-29 20:14:12] [System] User exited program.
+[2026-05-29 20:14:33] [User Input] pizza
+[2026-05-29 20:14:36] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:14:36] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:14:36] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:17:26] [System] Agent started.
+[2026-05-29 20:17:26] [Agent] Detecting current location...
+[2026-05-29 20:17:26] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:17:31] [User Input] BBQ
+[2026-05-29 20:17:31] [Planner] Understanding user goal...
+[2026-05-29 20:17:32] [Planner Output] {'type': 'restaurant', 'cuisine': 'korean', 'keywords': 'BBQ', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:17:32] [Memory Updated] {'favorite_cuisine': 'korean', 'preferred_price': None}
+[2026-05-29 20:17:32] [Tool] Searching nearby places...
+[2026-05-29 20:17:34] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:17:34] [Recommender] Evaluating places...
+[2026-05-29 20:17:36] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:17:36] [Final] Displaying recommendations.
+[2026-05-29 20:17:36] [Recommendation 1] RE:Seoul | Score=18.63
+[2026-05-29 20:17:36] [Recommendation 2] City Gopchang (CTG) | Score=18.63
+[2026-05-29 20:17:36] [Recommendation 3] Grill Planet BBQ Buffet 烤肉星球 | Score=18.52
+[2026-05-29 20:17:36] [System] Recommendation cycle completed.
+[2026-05-29 20:18:23] [User Input] Bye
+[2026-05-29 20:18:23] [System] User exited program.
+[2026-05-29 20:19:21] [System] Agent started.
+[2026-05-29 20:19:21] [Agent] Detecting current location...
+[2026-05-29 20:19:21] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:19:27] [User Input] BBQ
+[2026-05-29 20:19:27] [Planner] Understanding user goal...
+[2026-05-29 20:19:28] [Planner Output] {'type': 'restaurant', 'cuisine': 'korean', 'keywords': 'BBQ', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:19:28] [Memory Updated] {'favorite_cuisine': 'korean', 'preferred_price': None}
+[2026-05-29 20:19:28] [Tool] Searching nearby places...
+[2026-05-29 20:19:30] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:19:30] [Recommender] Evaluating places...
+[2026-05-29 20:19:32] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:19:32] [Final] Displaying recommendations.
+[2026-05-29 20:19:32] [Recommendation 1] RE:Seoul | Score=18.63
+[2026-05-29 20:19:32] [Recommendation 2] City Gopchang (CTG) | Score=18.63
+[2026-05-29 20:19:32] [Recommendation 3] Grill Planet BBQ Buffet 烤肉星球 | Score=18.52
+[2026-05-29 20:19:32] [System] Recommendation cycle completed.
+[2026-05-29 20:19:49] [User Input] Bye
+[2026-05-29 20:19:49] [System] User exited program.
+[2026-05-29 20:20:10] [User Input] pizza
+[2026-05-29 20:20:13] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:20:13] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:20:13] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:21:49] [System] Agent started.
+[2026-05-29 20:21:49] [Agent] Detecting current location...
+[2026-05-29 20:21:49] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:21:54] [User Input] bbq
+[2026-05-29 20:21:54] [Planner] Understanding user goal...
+[2026-05-29 20:21:56] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:21:56] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:21:56] [Tool] Searching nearby places...
+[2026-05-29 20:21:59] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:21:59] [Recommender] Evaluating places...
+[2026-05-29 20:22:03] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:22:03] [Final] Displaying recommendations.
+[2026-05-29 20:22:03] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:22:03] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:22:03] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:22:03] [System] Recommendation cycle completed.
+[2026-05-29 20:22:21] [User Input] Bye
+[2026-05-29 20:22:21] [System] User exited program.
+[2026-05-29 20:22:38] [User Input] pizza
+[2026-05-29 20:22:41] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:22:41] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:22:41] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:24:53] [System] Agent started.
+[2026-05-29 20:24:53] [Agent] Detecting current location...
+[2026-05-29 20:24:54] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:24:59] [User Input] BBQ
+[2026-05-29 20:24:59] [Planner] Understanding user goal...
+[2026-05-29 20:25:00] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'BBQ', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:25:00] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:25:00] [Tool] Searching nearby places...
+[2026-05-29 20:25:01] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:25:01] [Recommender] Evaluating places...
+[2026-05-29 20:25:04] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:25:04] [Final] Displaying recommendations.
+[2026-05-29 20:25:04] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:25:04] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:25:04] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:25:04] [System] Recommendation cycle completed.
+[2026-05-29 20:25:27] [User Input] bye
+[2026-05-29 20:25:27] [System] User exited program.
+[2026-05-29 20:25:45] [User Input] pizza
+[2026-05-29 20:25:48] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:25:48] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:25:48] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:28:36] [System] Agent started.
+[2026-05-29 20:28:36] [Agent] Detecting current location...
+[2026-05-29 20:28:37] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:28:42] [User Input] bbq'
+[2026-05-29 20:28:42] [Planner] Understanding user goal...
+[2026-05-29 20:28:44] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:28:44] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:28:44] [Tool] Searching nearby places...
+[2026-05-29 20:28:45] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:28:45] [Recommender] Evaluating places...
+[2026-05-29 20:28:48] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:28:48] [Final] Displaying recommendations.
+[2026-05-29 20:28:48] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:28:48] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:28:48] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:28:48] [System] Recommendation cycle completed.
+[2026-05-29 20:29:07] [User Input] Bye
+[2026-05-29 20:29:07] [System] User exited program.
+[2026-05-29 20:29:48] [System] Agent started.
+[2026-05-29 20:29:48] [Agent] Detecting current location...
+[2026-05-29 20:29:48] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:29:53] [User Input] bbq
+[2026-05-29 20:29:53] [Planner] Understanding user goal...
+[2026-05-29 20:29:55] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:29:55] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:29:55] [Tool] Searching nearby places...
+[2026-05-29 20:29:56] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:29:56] [Recommender] Evaluating places...
+[2026-05-29 20:29:59] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:29:59] [Final] Displaying recommendations.
+[2026-05-29 20:29:59] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:29:59] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:29:59] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:29:59] [System] Recommendation cycle completed.
+[2026-05-29 20:30:21] [User Input] bye
+[2026-05-29 20:30:21] [System] User exited program.
+[2026-05-29 20:30:42] [User Input] pizza
+[2026-05-29 20:30:44] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:30:44] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:30:44] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
+[2026-05-29 20:32:26] [System] Agent started.
+[2026-05-29 20:32:26] [Agent] Detecting current location...
+[2026-05-29 20:32:26] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:32:32] [User Input] bbq
+[2026-05-29 20:32:32] [Planner] Understanding user goal...
+[2026-05-29 20:32:33] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:32:33] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:32:33] [Tool] Searching nearby places...
+[2026-05-29 20:32:35] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:32:35] [Recommender] Evaluating places...
+[2026-05-29 20:32:38] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:32:38] [Final] Displaying recommendations.
+[2026-05-29 20:32:38] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:32:38] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:32:38] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:32:38] [System] Recommendation cycle completed.
+[2026-05-29 20:32:56] [User Input] bye
+[2026-05-29 20:32:56] [System] User exited program.
+[2026-05-29 20:33:46] [System] Agent started.
+[2026-05-29 20:33:46] [Agent] Detecting current location...
+[2026-05-29 20:33:46] [Location] Latitude=-36.8485, Longitude=174.7635
+[2026-05-29 20:33:51] [User Input] bbq
+[2026-05-29 20:33:51] [Planner] Understanding user goal...
+[2026-05-29 20:33:52] [Planner Output] {'type': 'restaurant', 'cuisine': None, 'keywords': 'bbq', 'price': None, 'max_distance_km': None}
+[2026-05-29 20:33:52] [Memory Updated] {'favorite_cuisine': None, 'preferred_price': None}
+[2026-05-29 20:33:52] [Tool] Searching nearby places...
+[2026-05-29 20:33:54] [Tool] Retrieved 10 candidate places.
+[2026-05-29 20:33:54] [Recommender] Evaluating places...
+[2026-05-29 20:33:56] [Recommender] Generated 3 recommendations.
+[2026-05-29 20:33:56] [Final] Displaying recommendations.
+[2026-05-29 20:33:56] [Recommendation 1] Chill and Grill | Score=19.17
+[2026-05-29 20:33:56] [Recommendation 2] Smokeland Bbq Albert Street | Score=19.07
+[2026-05-29 20:33:56] [Recommendation 3] Milenta | Score=18.8
+[2026-05-29 20:33:56] [System] Recommendation cycle completed.
+[2026-05-29 20:34:17] [User Input] bye
+[2026-05-29 20:34:17] [System] User exited program.
+[2026-05-29 20:34:37] [User Input] pizza
+[2026-05-29 20:34:40] [Recommendation 1] That's Amore | Rating=4.8 | Distance=1.2 km
+[2026-05-29 20:34:40] [Recommendation 2] A Modo Mio | Rating=4.6 | Distance=1.2 km
+[2026-05-29 20:34:40] [Recommendation 3] Bossi | Rating=4.6 | Distance=1.3 km
