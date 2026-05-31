@@ -145,6 +145,7 @@ streamlit run app.py
 
 ```text
 cheap korean bbq nearby
+I want pizza
 ```
 
 3. The system will:
