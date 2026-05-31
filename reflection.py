@@ -3,7 +3,7 @@
 from openai import OpenAI
 
 
-OPENAI_API_KEY="sk-fba43d9bd0e646df83cac342f3a07e9f"
+OPENAI_API_KEY="sk-22f087eba9ef4eca8edc0264b0226fb2"
 OPENAI_MODEL="deepseek-chat"
 
 
