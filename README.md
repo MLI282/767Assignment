@@ -124,7 +124,7 @@ GOOGLE_MAPS_API_KEY = "your_google_maps_api_key"   # maps_tool.py
 ⚠ Notice:
 
 I currently use my own DeepSeek API key for demonstration purposes.  
-The key will remain available until the end of June.
+The key will remain available until the beginning of the June.
 
 For large-scale testing or long-term usage, please use your own API key.
 
