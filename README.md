@@ -167,7 +167,7 @@ cheap korean bbq nearby
 
 # 📹 Demo Video
 
-[Paste Demo Video Link Here]
+https://youtu.be/urwghbbuheE
 
 ---
 
