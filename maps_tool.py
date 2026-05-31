@@ -1,7 +1,7 @@
 # maps_tool.py
 
 import requests
-GOOGLE_MAPS_API_KEY="AIzaSyCM52EWkjcrBhRpb4gpm4WS1298UL-KorU"
+GOOGLE_MAPS_API_KEY=""
 
 
 def search_places(preferences, lat, lng):
