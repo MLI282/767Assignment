@@ -116,6 +116,8 @@ pip install -r requirements.txt
 ```python
 api_key = "your_deepseek_api_key"   # planner.py
 
+OPENAI_API_KEY="your_deepseek_api_key" #reflection.py
+
 GOOGLE_MAPS_API_KEY = "your_google_maps_api_key"   # maps_tool.py
 ```
 
