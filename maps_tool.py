@@ -2,7 +2,7 @@
 
 import requests
 GOOGLE_MAPS_API_KEY=""
-
+#your key here
 
 def search_places(preferences, lat, lng):
 
